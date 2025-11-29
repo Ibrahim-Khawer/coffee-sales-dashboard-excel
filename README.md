@@ -30,5 +30,17 @@ Seasonal patterns indicate higher sales in spring and fall months
 Tools: Microsoft Excel (XLOOKUP, INDEX-MATCH, PivotTables, Slicers)
 
 Dashboard Preview
-https://images/dashboard.png
+https://github.com/Ibrahim-Khawer/coffee-sales-dashboard-excel/blob/main/image/dashboard.png
 Interactive Excel dashboard with sales analytics and filtering capabilities
+
+
+Recommendation
+To maximize revenue growth, the coffee company should:
+
+Implement targeted loyalty programs for high-value customers
+
+Focus marketing efforts on the United States market while exploring growth in Ireland and UK
+
+Leverage strong performance of Arabica in product promotions
+
+Use seasonal sales patterns for inventory planning and campaign timing
