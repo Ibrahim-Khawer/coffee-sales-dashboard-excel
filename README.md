@@ -6,7 +6,9 @@ Coffee companies need to monitor sales performance across different dimensions t
 
 ## Project Details
 **Dataset**: [CoffeeOrdersData](https://github.com/Ibrahim-Khawer/coffee-sales-dashboard-excel/blob/main/coffeeOrdersData.xlsx)
+
 Tools: Microsoft Excel (XLOOKUP, INDEX-MATCH, PivotTables, Slicers)
+
 Dashboard: [Download Interactive Dashboard](https://github.com/Ibrahim-Khawer/coffee-sales-dashboard-excel/blob/main/coffeeOrdersProject.xlsx)
 
 ## Data Preparation
